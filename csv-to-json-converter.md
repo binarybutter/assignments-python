@@ -5,7 +5,7 @@
 3. Return the dictionary object
 
 #### URL: https://raw.githubusercontent.com/binarybutter/assignments-input-files/master/csv-sample-data.csv
- 
+
 ### Format of the input CSV file:
 
 ```
@@ -20,3 +20,7 @@ an,bn,cn,dn
 1. Can contain any arbitrary number of lines
 2. Each lines contains exactly 4 columns
 3. All the four columns have String type values
+
+### Submission:
+
+Please create git repo in your github account and share the link for the repo in Slack.
