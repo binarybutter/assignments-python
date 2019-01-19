@@ -1,9 +1,11 @@
 ### Given a URL for a CSV(Comma Separated Values) formatted file, please write a function that does the following:
 
-1. Download the file and store it on disk
+1. Download the file fro the URL provided below and store it on disk
 2. Read the contents of the file and load them into a dictionary object
 3. Return the dictionary object
 
+#### URL: https://raw.githubusercontent.com/binarybutter/assignments-input-files/master/csv-sample-data.csv
+ 
 ### Format of the input CSV file:
 
 ```
