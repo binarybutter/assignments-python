@@ -21,6 +21,38 @@ an,bn,cn,dn
 2. Each lines contains exactly 4 columns
 3. All the four columns have String type values
 
+
+### Expected output format
+
+```
+{
+  "c1", "a1",
+  "c2", "b1",
+  "c3", "c1",
+  "c4", "d1"
+},
+{
+  "c1", "a2",
+  "c2", "b2",
+  "c3", "c2",
+  "c4", "d2"
+},
+{
+  "c1", "a3",
+  "c2", "b3",
+  "c3", "c3",
+  "c4", "d3"
+},
+.
+.
+{
+  "c1", "an",
+  "c2", "bn",
+  "c3", "cn",
+  "c4", "dn"
+}
+```
+
 ### Submission:
 
 Please create git repo in your github account and share the link for the repo in Slack.
