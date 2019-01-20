@@ -2,7 +2,7 @@
 
 1. Download the file fro the URL provided below and store it on disk
 2. Read the contents of the file and load them into a dictionary object
-3. Return the dictionary object
+3. Return the and Array of dictionary objects
 
 #### URL: https://raw.githubusercontent.com/binarybutter/assignments-input-files/master/csv-sample-data.csv
 
@@ -25,32 +25,32 @@ an,bn,cn,dn
 ### Expected output format
 
 ```
-{
-  "c1", "a1",
-  "c2", "b1",
-  "c3", "c1",
-  "c4", "d1"
+[{
+  "c1":"a1",
+  "c2": "b1",
+  "c3": "c1",
+  "c4": "d1"
 },
 {
-  "c1", "a2",
-  "c2", "b2",
-  "c3", "c2",
-  "c4", "d2"
+  "c1": "a2",
+  "c2": "b2",
+  "c3": "c2",
+  "c4": "d2"
 },
 {
-  "c1", "a3",
-  "c2", "b3",
-  "c3", "c3",
-  "c4", "d3"
+  "c1": "a3",
+  "c2": "b3",
+  "c3": "c3",
+  "c4": "d3"
 },
 .
 .
 {
-  "c1", "an",
-  "c2", "bn",
-  "c3", "cn",
-  "c4", "dn"
-}
+  "c1": "an",
+  "c2": "bn",
+  "c3": "cn",
+  "c4": "dn"
+}]
 ```
 
 ### Submission:
