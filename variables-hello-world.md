@@ -30,7 +30,7 @@ int10 = 55
 Please create git repo with name `py-var-hw` in your github account push the code to a feature branch with name `feature/part-1-task-1` and share the link for the pull request to master branch on slack.
 
 
-##### Task 1: Strings
+##### Task 2: Strings
 
 Declare and initialize 10 string variables with names str1, str2,... str10 and store either single or multiple words in each variable(get creative here and store what ever you feel like and not use the same strings show in the below sample output) and finally print them to the console in the following format:
 
@@ -47,3 +47,21 @@ str10 = this could be it
 ##### Submission:
 
 Create a new feature branch with name `feature/part-1-task-2` and share the link for the pull request to master branch on slack.
+
+##### Task 3: Decimal numbers
+
+Declare and initialize 10 decimal variables with names dec1, dec2,... dec10 and store the multiples of 5.8 in each variable and finally print them to the console in the following format:
+
+```
+dec1 = 5.8
+dec2 = 10.16
+dec3 = 15.24
+.
+.
+.
+dec10 = 58.0
+```
+
+##### Submission:
+
+Create a new feature branch with name `feature/part-1-task-3` and share the link for the pull request to master branch on slack.
