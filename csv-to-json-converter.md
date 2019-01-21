@@ -57,7 +57,7 @@ an,bn,cn,dn
 
 ### PART II: Variable Column input file
 
-#### URL: https://raw.githubusercontent.com/binarybutter/assignments-input-files/master/csv-sample-data.csv
+#### URL: https://raw.githubusercontent.com/binarybutter/assignments-input-files/master/csv-sample-data-var-len.csv
 
 ### Assumptions to be made about the input file:
 
