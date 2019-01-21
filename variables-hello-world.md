@@ -32,7 +32,7 @@ Please create git repo with name `py-var-hw` in your github account push the cod
 
 ##### Task 1: Strings
 
-Declare and initialize 10 string variables with names str1, str2,... str10 and store either single or multiple words in each variable and finally print them to the console in the following format:
+Declare and initialize 10 string variables with names str1, str2,... str10 and store either single or multiple words in each variable(get creative here and store what ever you feel like and not use the same strings show in the below sample output) and finally print them to the console in the following format:
 
 ```
 str1 = Contents of first string variable
