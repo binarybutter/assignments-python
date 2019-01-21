@@ -25,6 +25,25 @@ int3 = 15
 int10 = 55
 ```
 
-### Submission:
+##### Submission:
 
 Please create git repo with name `py-var-hw` in your github account push the code to a feature branch with name `feature/part-1-task-1` and share the link for the pull request to master branch on slack.
+
+
+##### Task 1: Strings
+
+Declare and initialize 10 string variables with names str1, str2,... str10 and store either single or multiple words in each variable and finally print them to the console in the following format:
+
+```
+str1 = Contents of first string variable
+str2 = happy christmas
+str3 = Strings are kind of cool
+.
+.
+.
+str10 = this could be it
+```
+
+##### Submission:
+
+Create a new feature branch with name `feature/part-1-task-2` and share the link for the pull request to master branch on slack.
