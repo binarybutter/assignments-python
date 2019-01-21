@@ -68,7 +68,7 @@ Create a new feature branch with name `feature/part-1-task-3` and share the link
 
 #### PART II: Advanced Data Types
 
-##### Task 1: Lists
+##### Task 1: Integer Lists
 
 Declare and initialize an integer `list` with name `list1` and store the first 8 multiples of number 7 in the list and finally print the contents of the list in the following format:
 
@@ -85,3 +85,21 @@ Below is the list of first 8 multiples of number 7
 ##### Submission:
 
 Create a new feature branch with name `feature/part-2-task-1` and share the link for the pull request to master branch on slack.
+
+##### Task 1: String Lists
+
+Declare and initialize an string `list` with name `str_list1` and store 7 strings each containing 3 random words of your choice and finally print the contents of the list in the following format:
+
+```
+Below is the list of random worded strings
+1st String: this is string
+2nd String: momma is megha
+3rd String: hello to hello
+.
+.
+7th String: the end here
+```
+
+##### Submission:
+
+Create a new feature branch with name `feature/part-2-task-2` and share the link for the pull request to master branch on slack.
