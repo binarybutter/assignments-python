@@ -70,7 +70,7 @@ Create a new feature branch with name `feature/part-1-task-3` and share the link
 
 ##### Task 1: Lists
 
-Declare and initialize an integer `list` with name `list1` store the first 8 multiple of number 7 in the list and finally print the contents of the list in the following format:
+Declare and initialize an integer `list` with name `list1` and store the first 8 multiples of number 7 in the list and finally print the contents of the list in the following format:
 
 ```
 Below is the list of first 8 multiples of number 7
