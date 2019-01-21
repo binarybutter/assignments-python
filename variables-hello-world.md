@@ -2,7 +2,7 @@
 
 Learn to use all the variables in python. This exercise has two parts. The first part will cover all the primitive data types and the second part will cover the advanced data types
 
-#### PART I:
+#### PART I: Primitive Data Types
 
 In this part we will declare all the variables of all the following primitive data types.
 
@@ -65,3 +65,23 @@ dec10 = 58.0
 ##### Submission:
 
 Create a new feature branch with name `feature/part-1-task-3` and share the link for the pull request to master branch on slack.
+
+#### PART II: Advanced Data Types
+
+##### Task 1: Lists
+
+Declare and initialize an integer `list` with name `list1` store the first 8 multiple of number 7 in the list and finally print the contents of the list in the following format:
+
+```
+Below is the list of first 8 multiples of number 7
+1st multiple: 7
+2nd multiple: 14
+3rd multiple: 21
+.
+.
+8th multiple: 56
+```
+
+##### Submission:
+
+Create a new feature branch with name `feature/part-2-task-1` and share the link for the pull request to master branch on slack.
