@@ -11,9 +11,9 @@ In this part we will declare all the variables of all the following primitive da
 3. Strings
 4. Float
 
-###### Task 1: Integers
+##### Task 1: Integers
 
-Declare and initialize 10 integer variables with names int1, int1,... int1 and store the multiples of 5 in each variable and finally print them to the console in the following format:
+Declare and initialize 10 integer variables with names int1, int2,... int10 and store the multiples of 5 in each variable and finally print them to the console in the following format:
 
 ```
 int1 = 5
@@ -21,7 +21,8 @@ int2 = 10
 int3 = 15
 .
 .
-.int10 = 55
+.
+int10 = 55
 ```
 
 ### Submission:
